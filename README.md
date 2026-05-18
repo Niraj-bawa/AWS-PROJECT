@@ -24,9 +24,3 @@ RDS
 IAM
 
 Auto Scaling
-
-
-
-
- 
-<img width="714" height="936" alt="image" src="https://github.com/user-attachments/assets/4985d9d2-4081-4f42-8956-55f23f524405" />
